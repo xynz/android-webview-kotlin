@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
     private var progress: Progress? = null
     private var isLoaded: Boolean = false
     private var doubleBackToExitPressedOnce = false
-    private var webURL = "https://www.geeklabs.co.in/" // Change it with your URL
+    private var webURL = "https://lc.chat/now/6271351/" // Change it with your URL
 
     @SuppressLint("SetJavaScriptEnabled")
     override fun onCreate(savedInstanceState: Bundle?) {
